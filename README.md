@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, I'm Jonathan Rondón - aka <a href="https://twitter.com/JonathanERC/">Rons</a></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, I'm Jonathan Rondon - aka <a href="https://twitter.com/JonathanERC/">Rons</a></h1>
 <h3 align="center">💥 A passionate Computer Scientist 🔥</h3>
 <div>
-   <p>Welcome to my profile! I'm currently a Network Engineer who codes and integrating different technologies together. I love to learn and teach others, so feel free to ask me about anything and let's spread the knowledge together!</p>
+   <p>Welcome to my profile! I'm currently a Network Engineer who codes and integrates different technologies together. I love to learn and teach others, so feel free to ask me about anything and let's spread the knowledge together!</p>
    <p>This is the place where I <i>Open Source</i> stuff and break things 🤣.</p>
 </div>
 <h2>⚡️ A few quick facts</h2>
@@ -11,7 +11,7 @@
    <li> 🥅 I'd like to contribute more to other people's projects.</li>
    <li> 💬 Ping me about <strong>Science, General Knowledge, Networking, ICT, CyberSec, or Scripting</strong>.</li>
    <li> 📙 Check out my <a href="https://www.linkedin.com/in/jonathanerc/">profile</a>.</li>
-   <li> ⚡ Fun fact: I love math, but I barely remember when to use in real life situations.</li>
+   <li> ⚡ Fun fact: I love math, but I barely remember when to use it in real life situations.</li>
 </ul>
 <h2 align="left">👨‍🎓 Some technologies I know</h2>
 <div align="center">
@@ -34,7 +34,7 @@
    <img src="https://img.shields.io/badge/-Raspberry_Pi-DB1F48?style=flat-square&logo=raspberrypi&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Assistant-4285F4?style=flat-square&logo=google%20assistant&logoColor=white"/>
-   <p>Also, I know about Networking 🖧, ICT's 🌐 & Electronics 🔌 but I couldn't find cool badges for that :(</p>
+   <p>I also, know about Networking 🖧, ICT's 🌐 & Electronics 🔌 but I couldn't find any cool badges for those :(</p>
 </div>
 <h2 align="left">💡 Some technologies I'm learning</h2>
 <p align="center">  
