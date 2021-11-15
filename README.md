@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, I'm Jonathan Rondon - aka <a href="https://twitter.com/JonathanERC/">Rons</a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/JonathanERC/JonathanERC/main/hand-say-hi.gif" width="30"> Hey there, I'm Jonathan Rondon - aka <a href="https://twitter.com/JonathanERC/">Rons</a></h1>
 <h3 align="center">💥 A passionate Computer Scientist 🔥</h3>
 <div>
    <p>Welcome to my profile! I'm currently a Network Engineer who codes and integrates different technologies together. I love to learn and teach others, so feel free to ask me about anything and let's spread the knowledge together!</p>
