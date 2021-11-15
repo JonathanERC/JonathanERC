@@ -6,7 +6,7 @@
 </div>
 <h2>⚡️ A few quick facts</h2>
 <ul>
-   <li> 🌱 I’m currently learning <strong>Web 2.0 & Web 3.0 integration</strong>.</li>
+   <li> 🌱 I’m currently learning <strong>DevOps & Web 3.0 integration</strong>.</li>
    <li> 📝 I'd like to start writing articles on my <a href="https://jonathanerc.github.io/">blog</a>.</li>
    <li> 🥅 I'd like to contribute more to other people's projects.</li>
    <li> 💬 Ping me about <strong>Science, General Knowledge, Networking, ICT, CyberSec, or Scripting</strong>.</li>
@@ -44,6 +44,7 @@
    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
    <img src="https://img.shields.io/badge/-JS-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/-VueJS%20-%2335495e?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
    <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
